@@ -1,0 +1,76 @@
+Romney Electoral Votes:
+
+State: Alabama	 Electoral Votes: 9
+--------------------------------------------
+
+State: Alaska	 Electoral Votes: 3
+--------------------------------------------
+
+State: Arizona	 Electoral Votes: 8
+--------------------------------------------
+
+State: Arkansas	 Electoral Votes: 6
+--------------------------------------------
+
+State: Georgia	 Electoral Votes: 13
+--------------------------------------------
+
+State: Idaho	 Electoral Votes: 4
+--------------------------------------------
+
+State: Indiana	 Electoral Votes: 12
+--------------------------------------------
+
+State: Kansas	 Electoral Votes: 6
+--------------------------------------------
+
+State: Kentucky	 Electoral Votes: 8
+--------------------------------------------
+
+State: Louisiana	 Electoral Votes: 9
+--------------------------------------------
+
+State: Mississippi	 Electoral Votes: 7
+--------------------------------------------
+
+State: Missouri	 Electoral Votes: 11
+--------------------------------------------
+
+State: Montana	 Electoral Votes: 3
+--------------------------------------------
+
+State: Nebraska	 Electoral Votes: 5
+--------------------------------------------
+
+State: NorthCarolina	 Electoral Votes: 14
+--------------------------------------------
+
+State: NorthDakota	 Electoral Votes: 3
+--------------------------------------------
+
+State: Oklahoma	 Electoral Votes: 8
+--------------------------------------------
+
+State: SouthCarolina	 Electoral Votes: 8
+--------------------------------------------
+
+State: SouthDakota	 Electoral Votes: 3
+--------------------------------------------
+
+State: Tennessee	 Electoral Votes: 11
+--------------------------------------------
+
+State: Texas	 Electoral Votes: 32
+--------------------------------------------
+
+State: Utah	 Electoral Votes: 5
+--------------------------------------------
+
+State: WestVirginia	 Electoral Votes: 5
+--------------------------------------------
+
+State: Wyoming	 Electoral Votes: 3
+--------------------------------------------
+
+
+ Romney lost the 2012 election with a total of 196 electoral votes, and 60934407 total votes.

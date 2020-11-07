@@ -1,0 +1,85 @@
+Obama Total Electoral Votes:
+
+State: California	 Electoral Votes: 54
+--------------------------------------------
+
+State: Colorado	 Electoral Votes: 8
+--------------------------------------------
+
+State: Connecticut	 Electoral Votes: 8
+--------------------------------------------
+
+State: Delaware	 Electoral Votes: 3
+--------------------------------------------
+
+State: D.C.	 Electoral Votes: 2
+--------------------------------------------
+
+State: Florida	 Electoral Votes: 25
+--------------------------------------------
+
+State: Hawaii	 Electoral Votes: 4
+--------------------------------------------
+
+State: Illinois	 Electoral Votes: 22
+--------------------------------------------
+
+State: Iowa	 Electoral Votes: 7
+--------------------------------------------
+
+State: Maine	 Electoral Votes: 4
+--------------------------------------------
+
+State: Maryland	 Electoral Votes: 10
+--------------------------------------------
+
+State: Massachusetts	 Electoral Votes: 12
+--------------------------------------------
+
+State: Michigan	 Electoral Votes: 18
+--------------------------------------------
+
+State: Minnesota	 Electoral Votes: 10
+--------------------------------------------
+
+State: Nevada	 Electoral Votes: 4
+--------------------------------------------
+
+State: NewHampshire	 Electoral Votes: 4
+--------------------------------------------
+
+State: NewJersey	 Electoral Votes: 15
+--------------------------------------------
+
+State: NewMexico	 Electoral Votes: 5
+--------------------------------------------
+
+State: NewYork	 Electoral Votes: 33
+--------------------------------------------
+
+State: Ohio	 Electoral Votes: 21
+--------------------------------------------
+
+State: Oregon	 Electoral Votes: 7
+--------------------------------------------
+
+State: Pennsylvania	 Electoral Votes: 23
+--------------------------------------------
+
+State: RhodeIsland	 Electoral Votes: 4
+--------------------------------------------
+
+State: Vermont	 Electoral Votes: 3
+--------------------------------------------
+
+State: Virginia	 Electoral Votes: 13
+--------------------------------------------
+
+State: Washington	 Electoral Votes: 11
+--------------------------------------------
+
+State: Wisconsin	 Electoral Votes: 11
+--------------------------------------------
+
+
+ Obama won the 2012 election with a total of 341 electoral votes, and 65918507 total votes.
